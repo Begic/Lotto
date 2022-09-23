@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto.Debug", "Lotto.Debug\Lotto.Debug.csproj", "{03100869-5B14-4206-9E48-FE8616381625}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto.Data", "Lotto.Data\Lotto.Data.csproj", "{E1E3ADDB-2B1B-4A8D-90B3-788C2DB7E312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,10 @@ Global
 		{03100869-5B14-4206-9E48-FE8616381625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03100869-5B14-4206-9E48-FE8616381625}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03100869-5B14-4206-9E48-FE8616381625}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E1E3ADDB-2B1B-4A8D-90B3-788C2DB7E312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E3ADDB-2B1B-4A8D-90B3-788C2DB7E312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E3ADDB-2B1B-4A8D-90B3-788C2DB7E312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E3ADDB-2B1B-4A8D-90B3-788C2DB7E312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
