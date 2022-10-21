@@ -12,7 +12,6 @@ public class LottoNumber
     public int? FourthNumber { get; set; }
     public int? FifthNumber { get; set; }
     public int? SixthNumber { get; set; }
-    public string? AllNumbers => (FirstNumber + SecondNumber + ThirdNumber + FourthNumber + FifthNumber + SixthNumber).ToString();
     public List<LottoPlusNumber>? LottoPlusNumbers { get; set; }
     public List<LottoJokerNumber>? LottoJokerNumbers { get; set; } 
 }
